@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Emily Roden"
 date:   2017-04-21 00:46:55 
 categories: jekyll update

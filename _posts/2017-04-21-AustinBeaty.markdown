@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Austin Beaty"
 date:   2017-04-21 00:17:23 -0500
 categories: jekyll update

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Kim Pollard"
 date:   2017-04-21 01:20:15 
 categories: jekyll update

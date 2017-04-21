@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Stephanie Nguyen"
 date:   2017-04-21 01:29:45 
 categories: jekyll update
